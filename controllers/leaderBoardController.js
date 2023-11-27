@@ -3,6 +3,8 @@ const users=require('../models/users');
 
 //import expenses model
 const expenses=require('../models/expense');
+
+//import users model
 const Users = require('../models/users');
 
 //controller to fetch the leaderboard 
